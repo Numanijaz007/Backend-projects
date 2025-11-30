@@ -1,0 +1,5 @@
+
+
+- User come to bank he will get the queue number
+- Process user in the queue
+- Next person should came
